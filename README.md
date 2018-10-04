@@ -1,0 +1,2 @@
+# magicmirror
+MagicMirror config file
